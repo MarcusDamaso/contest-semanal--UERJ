@@ -1,0 +1,1 @@
+O segredo aqui é começar dividindo os numeros em quantidade de algarismos , 1 , 2, 3 e usar o numero inicial de cada subsequencia e a sua quantidade de digitos pra descobrir qual o numero.

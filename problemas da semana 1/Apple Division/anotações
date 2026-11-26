@@ -1,0 +1,1 @@
+Aqui o segredo é aplicar uma arvore de recursao que se divide em duas opções colocar a maça no cesto 1 ou no 2 quando chegar na ultima maça teremos o caso base. (obs :. nessa funçao tem outro retorno)
